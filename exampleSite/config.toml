@@ -2,7 +2,7 @@ baseURL = "https://edgar-ferreira.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Edgar Ferreira"
 [[menu.main]]
 URL = "about"
 name = "About"
